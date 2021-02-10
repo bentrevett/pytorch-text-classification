@@ -132,5 +132,7 @@ dmypy.json
 *.pt
 
 # vscode
-
 .vscode/
+
+# pytorch_lightning
+lightning_logs/
